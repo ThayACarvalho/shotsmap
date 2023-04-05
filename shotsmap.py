@@ -9,7 +9,7 @@ import statsbombpy as sb
 from statsbombpy import sb
 from mplsoccer import VerticalPitch
 
-danny_ings = pd.read_csv('/folder/Danny_Ings.csv')
+danny_ings = pd.read_csv('shotsmap/folder/Danny_Ings.csv')
 gareth_bale = pd.read_csv('/folder/Gareth_Bale.csv')
 james_maddison = pd.read_csv('/folder/James_Maddison.csv')
 jesse_lingard = pd.read_csv('/folder/Jesse_Lingard.csv')
