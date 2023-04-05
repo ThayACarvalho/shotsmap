@@ -9,17 +9,17 @@ import statsbombpy as sb
 from statsbombpy import sb
 from mplsoccer import VerticalPitch
 
-danny_ings = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores21/Danny_Ings.csv')
-gareth_bale = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores21/Gareth_Bale.csv')
-james_maddison = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores21/James_Maddison.csv')
-jesse_lingard = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores21/Jesse_Lingard.csv')
-son_heung = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores21/Son_Heung-Min.csv')
+danny_ings = '/folder/Danny_Ings.csv'
+gareth_bale = '/folder/Gareth_Bale.csv')
+james_maddison = '/folder/James_Maddison.csv')
+jesse_lingard = '/folder/Jesse_Lingard.csv')
+son_heung = '/folder/Son_Heung-Min.csv')
 
-emile_smith = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores22/Emile_Smith-Rowe.csv')
-james_maddison22 = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores22/James_Maddison.csv')
-James_ward = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores22/James_Ward-Prowse.csv')
-kevin_bruyne = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores22/Kevin_de_Bruyne.csv')
-son_heung22 = pd.read_csv('C:/data_analyst/5DataGlowUp/premier_league/jogadores22/Son_Heung-Min.csv')
+emile_smith = '/folder/Emile_Smith-Rowe.csv')
+james_maddison22 = '/folder/James_Maddison.csv')
+James_ward = '/folder/James_Ward-Prowse.csv')
+kevin_bruyne = '/folder/Kevin_de_Bruyne.csv')
+son_heung22 = '/folder/Son_Heung-Min.csv')
 
 st.title('Premier League Top Shooters Shotmap')
 
