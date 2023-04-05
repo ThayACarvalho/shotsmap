@@ -10,16 +10,16 @@ from statsbombpy import sb
 from mplsoccer import VerticalPitch
 
 danny_ings = '/folder/Danny_Ings.csv'
-gareth_bale = '/folder/Gareth_Bale.csv')
-james_maddison = '/folder/James_Maddison.csv')
-jesse_lingard = '/folder/Jesse_Lingard.csv')
-son_heung = '/folder/Son_Heung-Min.csv')
+gareth_bale = '/folder/Gareth_Bale.csv'
+james_maddison = '/folder/James_Maddison.csv'
+jesse_lingard = '/folder/Jesse_Lingard.csv'
+son_heung = '/folder/Son_Heung-Min.csv'
 
-emile_smith = '/folder/Emile_Smith-Rowe.csv')
-james_maddison22 = '/folder/James_Maddison.csv')
-James_ward = '/folder/James_Ward-Prowse.csv')
-kevin_bruyne = '/folder/Kevin_de_Bruyne.csv')
-son_heung22 = '/folder/Son_Heung-Min.csv')
+emile_smith = '/folder/Emile_Smith-Rowe.csv'
+james_maddison22 = '/folder/James_Maddison.csv'
+James_ward = '/folder/James_Ward-Prowse.csv'
+kevin_bruyne = '/folder/Kevin_de_Bruyne.csv'
+son_heung22 = '/folder/Son_Heung-Min.csv'
 
 st.title('Premier League Top Shooters Shotmap')
 
