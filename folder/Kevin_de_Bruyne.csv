@@ -1,0 +1,79 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+426454,83,SavedShot,0.785999985,0.666999969,94,53,0.023583421,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Jack Grealish,Pass,83
+431389,88,BlockedShot,0.825,0.67,99,54,0.036457323,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16421,Manchester City,Southampton,0,0,9/18/2021 14:00,Riyad Mahrez,Pass,88
+433167,30,BlockedShot,0.825999985,0.522000008,99,42,0.073588677,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,9/25/2021 11:30,Kyle Walker,Pass,30
+433170,38,MissedShots,0.743000031,0.693000031,89,55,0.013914797,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,9/25/2021 11:30,Jack Grealish,Pass,38
+433172,47,BlockedShot,0.794000015,0.545999985,95,44,0.032489121,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,9/25/2021 11:30,Bernardo Silva,Pass,47
+433179,67,BlockedShot,0.844000015,0.460999985,101,37,0.084775493,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,9/25/2021 11:30,,None,67
+435653,23,MissedShots,0.921999969,0.676999969,111,54,0.12026377,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16441,Liverpool,Manchester City,2,2,10/3/2021 15:30,Jo���������������,Throughball,23
+435654,33,MissedShots,0.916999969,0.427000008,110,34,0.082580164,Kevin De Bruyne,a,447,OpenPlay,2021,Head,16441,Liverpool,Manchester City,2,2,10/3/2021 15:30,Phil Foden,Cross,33
+435655,37,BlockedShot,0.859000015,0.375,103,30,0.063377902,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16441,Liverpool,Manchester City,2,2,10/3/2021 15:30,Gabriel Jesus,Pass,37
+435656,39,BlockedShot,0.86,0.337999992,103,27,0.0603237,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16441,Liverpool,Manchester City,2,2,10/3/2021 15:30,Gabriel Jesus,Pass,39
+435664,80,Goal,0.816999969,0.467000008,98,37,0.046750747,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16441,Liverpool,Manchester City,2,2,10/3/2021 15:30,,None,80
+436271,69,Goal,0.878000031,0.392999992,105,31,0.09160006,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16451,Manchester City,Burnley,2,0,10/16/2021 14:00,,None,69
+439665,47,BlockedShot,0.89,0.265,107,21,0.032067847,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,10/30/2021 14:00,Jack Grealish,Pass,47
+440823,6,BlockedShot,0.775,0.38,93,30,0.023203755,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16483,Manchester United,Manchester City,0,2,11/6/2021 12:30,Gabriel Jesus,Pass,6
+440828,28,BlockedShot,0.886999969,0.535999985,106,43,0.405555367,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16483,Manchester United,Manchester City,0,2,11/6/2021 12:30,Phil Foden,Pass,28
+440832,33,SavedShot,0.903000031,0.327999992,108,26,0.087187529,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16483,Manchester United,Manchester City,0,2,11/6/2021 12:30,Gabriel Jesus,Pass,33
+440838,75,MissedShots,0.878000031,0.370999985,105,30,0.04785455,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16483,Manchester United,Manchester City,0,2,11/6/2021 12:30,,Aerial,75
+446413,88,MissedShots,0.801999969,0.402000008,96,32,0.055076279,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,12/4/2021 17:30,Riyad Mahrez,Pass,88
+448914,11,BlockedShot,0.803000031,0.507000008,96,41,0.063740686,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Rodri,Pass,11
+448918,18,MissedShots,0.955999985,0.415,115,33,0.138213143,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Riyad Mahrez,Cross,18
+448919,27,SavedShot,0.791999969,0.524000015,95,42,0.04440926,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Phil Foden,Pass,27
+448920,31,Goal,0.935,0.674000015,112,54,0.128240332,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Rodri,Throughball,31
+448923,45,MissedShots,0.818000031,0.610999985,98,49,0.071145661,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Phil Foden,Pass,45
+448926,49,BlockedShot,0.909000015,0.287999992,109,23,0.065189257,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Rodri,Pass,49
+448931,61,Goal,0.751999969,0.494000015,90,40,0.031863183,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Ilkay G������������,Pass,61
+448941,87,SavedShot,0.696999969,0.680999985,84,54,0.030368477,Kevin De Bruyne,h,447,DirectFreekick,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,,Standard,87
+448945,92,MissedShots,0.790999985,0.547999992,95,44,0.047967762,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,12/14/2021 20:00,Riyad Mahrez,Pass,92
+449745,50,BlockedShot,0.841999969,0.564000015,101,45,0.104560114,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16550,Newcastle United,Manchester City,0,4,12/19/2021 14:15,Gabriel Jesus,Pass,50
+450592,3,BlockedShot,0.860999985,0.305,103,24,0.034251533,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,12/26/2021 15:00,Bernardo Silva,Pass,3
+450593,4,Goal,0.859000015,0.440999985,103,35,0.079741977,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,12/26/2021 15:00,Fernandinho,Chipped,4
+450602,28,BlockedShot,0.805999985,0.295,97,24,0.030378874,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,12/26/2021 15:00,,BallTouch,28
+450875,47,SavedShot,0.73,0.487000008,88,39,0.02238187,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16567,Brentford,Manchester City,0,1,12/29/2021 20:15,Fernandinho,Pass,47
+450878,65,MissedShots,0.899000015,0.741999969,108,59,0.05015789,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16567,Brentford,Manchester City,0,1,12/29/2021 20:15,,None,65
+450877,65,ShotOnPost,0.785999985,0.675999985,94,54,0.024018442,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16567,Brentford,Manchester City,0,1,12/29/2021 20:15,Bernardo Silva,Pass,65
+450879,67,MissedShots,0.671999969,0.629000015,81,50,0.010951758,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16567,Brentford,Manchester City,0,1,12/29/2021 20:15,Jack Grealish,Pass,67
+450944,18,MissedShots,0.813000031,0.699000015,98,56,0.021259394,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,1/1/2022 12:30,Gabriel Jesus,Pass,18
+453045,23,SavedShot,0.95,0.699000015,114,56,0.061605439,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16590,Manchester City,Chelsea,1,0,1/15/2022 12:30,Jack Grealish,Pass,23
+453047,42,MissedShots,0.913000031,0.674000015,110,54,0.064905442,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16590,Manchester City,Chelsea,1,0,1/15/2022 12:30,Jack Grealish,Pass,42
+453052,62,SavedShot,0.771999969,0.758000031,93,61,0.041396976,Kevin De Bruyne,h,447,DirectFreekick,2021,RightFoot,16590,Manchester City,Chelsea,1,0,1/15/2022 12:30,,Standard,62
+453054,69,Goal,0.746999969,0.632999992,90,51,0.016830897,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16590,Manchester City,Chelsea,1,0,1/15/2022 12:30,Jo���������������,TakeOn,69
+454768,39,BlockedShot,0.809000015,0.6,97,48,0.038074866,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16604,Southampton,Manchester City,1,1,1/22/2022 17:30,,None,39
+454784,69,ShotOnPost,0.745999985,0.502999992,90,40,0.020071825,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16604,Southampton,Manchester City,1,1,1/22/2022 17:30,,None,69
+454788,87,MissedShots,0.745,0.500999985,89,40,0.026865628,Kevin De Bruyne,a,447,FromCorner,2021,RightFoot,16604,Southampton,Manchester City,1,1,1/22/2022 17:30,Jack Grealish,Pass,87
+454789,95,SavedShot,0.968000031,0.324000015,116,26,0.055214114,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16604,Southampton,Manchester City,1,1,1/22/2022 17:30,,None,95
+456653,68,Goal,0.848000031,0.345,102,28,0.049717467,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16615,Manchester City,Brentford,2,0,2/9/2022 19:45,,Rebound,68
+460009,28,SavedShot,0.748000031,0.520999985,90,42,0.023271184,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16641,Everton,Manchester City,0,1,2/26/2022 17:30,John Stones,Pass,28
+460019,67,SavedShot,0.805999985,0.562999992,97,45,0.048737809,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16641,Everton,Manchester City,0,1,2/26/2022 17:30,Ilkay G������������,Pass,67
+461794,4,Goal,0.91,0.532999992,109,43,0.113387808,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,Bernardo Silva,Cross,4
+461796,15,BlockedShot,0.849000015,0.41,102,33,0.079478607,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,,None,15
+461797,16,SavedShot,0.926999969,0.675999985,111,54,0.104876727,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,Rodri,TakeOn,16
+461803,27,Goal,0.93,0.502000008,112,40,0.562301993,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,,Rebound,27
+461809,47,BlockedShot,0.895,0.665999985,107,53,0.070381992,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,Bernardo Silva,Pass,47
+461814,61,SavedShot,0.786999969,0.575999985,94,46,0.095628925,Kevin De Bruyne,h,447,DirectFreekick,2021,RightFoot,16650,Manchester City,Manchester United,4,1,3/6/2022 16:30,,Standard,61
+463499,13,SavedShot,0.749000015,0.39,90,31,0.019307103,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16660,Crystal Palace,Manchester City,0,0,3/14/2022 20:00,Bernardo Silva,Pass,13
+463503,25,SavedShot,0.954000015,0.632999992,114,51,0.076733224,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16660,Crystal Palace,Manchester City,0,0,3/14/2022 20:00,Jo���������������,Chipped,25
+465213,4,Goal,0.900999985,0.399000015,108,32,0.113830604,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16684,Burnley,Manchester City,0,2,4/2/2022 14:00,Raheem Sterling,Pass,4
+467481,4,Goal,0.775,0.654000015,93,52,0.021575164,Kevin De Bruyne,h,447,SetPiece,2021,LeftFoot,16690,Manchester City,Liverpool,2,2,4/10/2022 15:30,Bernardo Silva,Pass,4
+467486,28,MissedShots,0.899000015,0.649000015,108,52,0.063164152,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16690,Manchester City,Liverpool,2,2,4/10/2022 15:30,,None,28
+469540,25,MissedShots,0.739000015,0.580999985,89,46,0.020628046,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16670,Manchester City,Brighton,3,0,4/20/2022 19:00,Phil Foden,Pass,25
+469549,60,SavedShot,0.754000015,0.365999985,90,29,0.023043234,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16670,Manchester City,Brighton,3,0,4/20/2022 19:00,Riyad Mahrez,Pass,60
+469552,69,BlockedShot,0.763000031,0.681999969,92,55,0.028023446,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16670,Manchester City,Brighton,3,0,4/20/2022 19:00,Jo���������������,Pass,69
+469993,17,BlockedShot,0.879000015,0.735,105,59,0.04621651,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16707,Manchester City,Watford,5,1,4/23/2022 14:00,Rodri,Pass,17
+474276,5,MissedShots,0.799000015,0.763000031,96,61,0.049125921,Kevin De Bruyne,h,447,DirectFreekick,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,5/8/2022 15:30,,Standard,5
+475273,6,Goal,0.9,0.65,108,52,0.325811267,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,Bernardo Silva,Throughball,6
+475277,15,Goal,0.878000031,0.555,105,44,0.084701099,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,,None,15
+475278,23,Goal,0.799000015,0.405,96,32,0.052103717,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,Raheem Sterling,None,23
+475282,44,MissedShots,0.796999969,0.442999992,96,35,0.058982335,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,Bernardo Silva,Pass,44
+475283,59,Goal,0.890999985,0.452999992,107,36,0.505563438,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,,None,59
+475293,88,ShotOnPost,0.861999969,0.387999992,103,31,0.10142193,Kevin De Bruyne,a,447,OpenPlay,2021,LeftFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,5/11/2022 19:15,Riyad Mahrez,Pass,88
+476421,5,BlockedShot,0.801999969,0.715,96,57,0.018139865,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16737,West Ham,Manchester City,2,2,5/15/2022 13:00,Jack Grealish,Pass,5
+476433,44,SavedShot,0.879000015,0.833000031,105,67,0.051502872,Kevin De Bruyne,a,447,DirectFreekick,2021,RightFoot,16737,West Ham,Manchester City,2,2,5/15/2022 13:00,,Standard,44
+476440,59,MissedShots,0.784000015,0.745,94,60,0.047840349,Kevin De Bruyne,a,447,DirectFreekick,2021,RightFoot,16737,West Ham,Manchester City,2,2,5/15/2022 13:00,,Standard,59
+476443,65,BlockedShot,0.954000015,0.327999992,114,26,0.051558569,Kevin De Bruyne,a,447,OpenPlay,2021,RightFoot,16737,West Ham,Manchester City,2,2,5/15/2022 13:00,,None,65
+477940,43,BlockedShot,0.968000031,0.347000008,116,28,0.05484689,Kevin De Bruyne,h,447,OpenPlay,2021,LeftFoot,16754,Manchester City,Aston Villa,3,2,5/22/2022 15:00,Gabriel Jesus,None,43
+477944,47,MissedShots,0.898000031,0.425,108,34,0.050726842,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,5/22/2022 15:00,,Aerial,47
+477950,67,MissedShots,0.791999969,0.735,95,59,0.053269614,Kevin De Bruyne,h,447,DirectFreekick,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,5/22/2022 15:00,,Standard,67
+477953,72,MissedShots,0.858000031,0.522000008,103,42,0.139042869,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,5/22/2022 15:00,Raheem Sterling,Pass,72
+477959,80,MissedShots,0.903000031,0.273999996,108,22,0.040567745,Kevin De Bruyne,h,447,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,5/22/2022 15:00,,None,80

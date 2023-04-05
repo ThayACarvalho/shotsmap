@@ -1,0 +1,76 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+379618,76,Goal,0.76,0.726999969,91,58,0.026997007,James Maddison,a,6818,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,9/27/2020 15:30,Nampalys Mendy,Pass,76
+382803,71,BlockedShot,0.809000015,0.66,97,53,0.089547507,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14479,Leicester,Aston Villa,0,1,10/18/2020 18:15,,Standard,71
+384074,1,MissedShots,0.663000031,0.830999985,80,66,0.007483923,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14485,Arsenal,Leicester,0,1,10/25/2020 19:15,,None,1
+384086,53,MissedShots,0.514000015,0.282999992,62,23,0.007169351,James Maddison,a,6818,OpenPlay,2020,RightFoot,14485,Arsenal,Leicester,0,1,10/25/2020 19:15,,BallRecovery,53
+384087,54,BlockedShot,0.739000015,0.47,89,38,0.019333052,James Maddison,a,6818,OpenPlay,2020,RightFoot,14485,Arsenal,Leicester,0,1,10/25/2020 19:15,Timothy Castagne,Pass,54
+384088,56,MissedShots,0.711999969,0.579000015,85,46,0.040577184,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14485,Arsenal,Leicester,0,1,10/25/2020 19:15,,Standard,56
+386630,55,BlockedShot,0.864000015,0.552000008,104,44,0.125000328,James Maddison,h,6818,OpenPlay,2020,RightFoot,14510,Leicester,Wolverhampton Wanderers,1,0,11/8/2020 14:00,,TakeOn,55
+388197,82,BlockedShot,0.838000031,0.56,101,45,0.074361026,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14519,Liverpool,Leicester,3,0,11/22/2020 19:15,Dennis Praet,Pass,82
+389776,18,BlockedShot,0.815,0.301000004,98,24,0.077187143,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14532,Leicester,Fulham,1,2,11/30/2020 17:30,,Standard,18
+389784,42,MissedShots,0.751999969,0.375999985,90,30,0.019525036,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14532,Leicester,Fulham,1,2,11/30/2020 17:30,Youri Tielemans,Pass,42
+389795,87,MissedShots,0.686999969,0.585,82,47,0.013015583,James Maddison,h,6818,OpenPlay,2020,RightFoot,14532,Leicester,Fulham,1,2,11/30/2020 17:30,Christian Fuchs,Pass,87
+390798,13,MissedShots,0.736999969,0.116000004,88,9,0.02409655,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14541,Sheffield United,Leicester,1,2,12/6/2020 14:15,,Standard,13
+390804,45,ShotOnPost,0.879000015,0.425,105,34,0.10997057,James Maddison,a,6818,OpenPlay,2020,RightFoot,14541,Sheffield United,Leicester,1,2,12/6/2020 14:15,Ayoze P���������������,Pass,45
+392431,3,MissedShots,0.86,0.700999985,103,56,0.026345201,James Maddison,h,6818,FromCorner,2020,RightFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Marc Albrighton,Pass,3
+392439,18,BlockedShot,0.855,0.317999992,103,25,0.041186433,James Maddison,h,6818,OpenPlay,2020,RightFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Ayoze P���������������,Pass,18
+392442,24,MissedShots,0.901999969,0.31,108,25,0.047430117,James Maddison,h,6818,OpenPlay,2020,RightFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Ayoze P���������������,Pass,24
+392444,26,Goal,0.849000015,0.46,102,37,0.076159358,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Jamie Vardy,BallTouch,26
+392448,43,Goal,0.845,0.34,101,27,0.056858964,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Jamie Vardy,Pass,43
+392449,57,SavedShot,0.845,0.482000008,101,39,0.110335313,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14553,Leicester,Brighton,3,0,12/13/2020 19:15,Ayoze P���������������,Pass,57
+392941,7,BlockedShot,0.789000015,0.242999992,95,19,0.015708825,James Maddison,h,6818,OpenPlay,2020,RightFoot,14559,Leicester,Everton,0,2,12/16/2020 18:00,Jamie Vardy,Pass,7
+392953,64,MissedShots,0.775,0.54,93,43,0.0279298,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14559,Leicester,Everton,0,2,12/16/2020 18:00,Youri Tielemans,Pass,64
+394574,16,MissedShots,0.736999969,0.397000008,88,32,0.016915744,James Maddison,a,6818,OpenPlay,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,James Justin,Pass,16
+394581,43,SavedShot,0.715,0.585,86,47,0.014248029,James Maddison,a,6818,OpenPlay,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,Wilfred Ndidi,Pass,43
+394584,45,SavedShot,0.780999985,0.32,94,26,0.027284095,James Maddison,a,6818,OpenPlay,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,James Justin,Pass,45
+394588,68,MissedShots,0.84,0.67,101,54,0.049429178,James Maddison,a,6818,OpenPlay,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,Harvey Barnes,Pass,68
+395607,52,BlockedShot,0.778000031,0.609000015,93,49,0.077579066,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14579,Leicester,Manchester United,2,2,12/26/2020 12:30,,Standard,52
+396868,2,MissedShots,0.753000031,0.689000015,90,55,0.013155226,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14597,Newcastle United,Leicester,1,2,1/3/2021 14:15,,None,2
+396875,54,Goal,0.855,0.587000008,103,47,0.071118936,James Maddison,a,6818,OpenPlay,2020,RightFoot,14597,Newcastle United,Leicester,1,2,1/3/2021 14:15,Jamie Vardy,Pass,54
+396876,61,MissedShots,0.710999985,0.569000015,85,46,0.01855056,James Maddison,a,6818,OpenPlay,2020,RightFoot,14597,Newcastle United,Leicester,1,2,1/3/2021 14:15,Timothy Castagne,BallRecovery,61
+399161,27,MissedShots,0.765,0.422000008,92,34,0.022797754,James Maddison,h,6818,OpenPlay,2020,RightFoot,14619,Leicester,Southampton,2,0,1/16/2021 20:00,,None,27
+399163,36,Goal,0.963000031,0.349000015,116,28,0.07814721,James Maddison,h,6818,OpenPlay,2020,RightFoot,14619,Leicester,Southampton,2,0,1/16/2021 20:00,Youri Tielemans,Pass,36
+399826,15,ShotOnPost,0.734000015,0.474000015,88,38,0.022552399,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14609,Leicester,Chelsea,2,0,1/19/2021 20:15,Timothy Castagne,Pass,15
+399833,40,Goal,0.899000015,0.592999992,108,47,0.304018885,James Maddison,h,6818,OpenPlay,2020,RightFoot,14609,Leicester,Chelsea,2,0,1/19/2021 20:15,Marc Albrighton,Chipped,40
+401315,9,BlockedShot,0.780999985,0.569000015,94,46,0.08978343,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14627,Everton,Leicester,1,1,1/27/2021 20:15,,Standard,9
+401317,13,MissedShots,0.748000031,0.699000015,90,56,0.012911491,James Maddison,a,6818,OpenPlay,2020,RightFoot,14627,Everton,Leicester,1,1,1/27/2021 20:15,Harvey Barnes,Pass,13
+401327,57,BlockedShot,0.775,0.520999985,93,42,0.088882886,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14627,Everton,Leicester,1,1,1/27/2021 20:15,,Standard,57
+401331,75,SavedShot,0.9,0.24,108,19,0.038124215,James Maddison,a,6818,OpenPlay,2020,RightFoot,14627,Everton,Leicester,1,1,1/27/2021 20:15,Cengiz ������������������,TakeOn,75
+401339,89,BlockedShot,0.885999985,0.522000008,106,42,0.124218725,James Maddison,a,6818,OpenPlay,2020,RightFoot,14627,Everton,Leicester,1,1,1/27/2021 20:15,Harvey Barnes,Pass,89
+402002,2,MissedShots,0.875,0.1,105,8,0.035496499,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14643,Leicester,Leeds,1,3,1/31/2021 14:00,,Standard,2
+402006,19,BlockedShot,0.769000015,0.547999992,92,44,0.029144643,James Maddison,h,6818,OpenPlay,2020,RightFoot,14643,Leicester,Leeds,1,3,1/31/2021 14:00,Harvey Barnes,Pass,19
+402628,9,SavedShot,0.746999969,0.370999985,90,30,0.017250495,James Maddison,a,6818,OpenPlay,2020,RightFoot,14647,Fulham,Leicester,0,2,2/3/2021 18:00,Kelechi Iheanacho,BallTouch,9
+403772,28,SavedShot,0.731999969,0.405999985,88,32,0.048437715,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,,Standard,28
+403774,33,BlockedShot,0.91,0.502999992,109,40,0.139935404,James Maddison,a,6818,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,,Rebound,33
+403773,33,BlockedShot,0.91,0.527000008,109,42,0.114460111,James Maddison,a,6818,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,Kelechi Iheanacho,Dispossessed,33
+403777,41,SavedShot,0.785999985,0.475999985,94,38,0.029394751,James Maddison,a,6818,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,Kelechi Iheanacho,Pass,41
+403780,54,SavedShot,0.805,0.595999985,97,48,0.044674139,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,Youri Tielemans,Pass,54
+403786,74,BlockedShot,0.755,0.592999992,91,47,0.022534605,James Maddison,a,6818,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2/7/2021 14:00,Marc Albrighton,Pass,74
+404124,1,MissedShots,0.445999985,0.545,54,44,0.006261023,James Maddison,h,6818,OpenPlay,2020,RightFoot,14670,Leicester,Liverpool,3,1,2/13/2021 12:30,,None,1
+404133,28,BlockedShot,0.749000015,0.387999992,90,31,0.020522496,James Maddison,h,6818,OpenPlay,2020,RightFoot,14670,Leicester,Liverpool,3,1,2/13/2021 12:30,Wilfred Ndidi,Pass,28
+404145,77,Goal,0.855,0.814000015,103,65,0.05205619,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14670,Leicester,Liverpool,3,1,2/13/2021 12:30,,Standard,77
+405906,18,Goal,0.805999985,0.525,97,42,0.057256795,James Maddison,a,6818,OpenPlay,2020,RightFoot,14676,Aston Villa,Leicester,1,2,2/21/2021 14:00,Harvey Barnes,Pass,18
+405910,26,BlockedShot,0.866999969,0.545999985,104,44,0.125815362,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14676,Aston Villa,Leicester,1,2,2/21/2021 14:00,Harvey Barnes,TakeOn,26
+405915,52,BlockedShot,0.77,0.41,92,33,0.048746958,James Maddison,a,6818,OpenPlay,2020,LeftFoot,14676,Aston Villa,Leicester,1,2,2/21/2021 14:00,Ricardo Pereira,LayOff,52
+405917,59,SavedShot,0.744000015,0.397999992,89,32,0.054080281,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14676,Aston Villa,Leicester,1,2,2/21/2021 14:00,,Standard,59
+412769,82,MissedShots,0.778000031,0.4,93,32,0.020000709,James Maddison,h,6818,OpenPlay,2020,RightFoot,14730,Leicester,Manchester City,0,2,4/3/2021 16:30,Youri Tielemans,Pass,82
+412770,85,SavedShot,0.869000015,0.47,104,38,0.10606084,James Maddison,h,6818,OpenPlay,2020,RightFoot,14730,Leicester,Manchester City,0,2,4/3/2021 16:30,Ricardo Pereira,Pass,85
+416852,2,MissedShots,0.800999985,0.485,96,39,0.050804213,James Maddison,h,6818,OpenPlay,2020,RightFoot,14750,Leicester,West Bromwich Albion,3,0,4/22/2021 19:00,Timothy Castagne,Pass,2
+416859,32,SavedShot,0.758000031,0.38,91,30,0.024075055,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,4/22/2021 19:00,Timothy Castagne,Pass,32
+418241,19,BlockedShot,0.805,0.474000015,97,38,0.053194292,James Maddison,h,6818,OpenPlay,2020,RightFoot,14759,Leicester,Crystal Palace,2,1,4/26/2021 19:00,Youri Tielemans,Pass,19
+418245,45,MissedShots,0.955,0.720999985,115,58,0.03918238,James Maddison,h,6818,OpenPlay,2020,LeftFoot,14759,Leicester,Crystal Palace,2,1,4/26/2021 19:00,Jonny Evans,Chipped,45
+418247,59,SavedShot,0.748000031,0.560999985,90,45,0.024223844,James Maddison,h,6818,OpenPlay,2020,RightFoot,14759,Leicester,Crystal Palace,2,1,4/26/2021 19:00,Youri Tielemans,Pass,59
+418363,13,MissedShots,0.820999985,0.457000008,99,37,0.171308041,James Maddison,a,6818,DirectFreekick,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,,Standard,13
+418366,35,SavedShot,0.71,0.395,85,32,0.0156369,James Maddison,a,6818,OpenPlay,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,Wilfred Ndidi,Pass,35
+418373,62,MissedShots,0.758000031,0.322999992,91,26,0.015201537,James Maddison,a,6818,OpenPlay,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,,None,62
+418375,65,BlockedShot,0.76,0.639000015,91,51,0.021497773,James Maddison,a,6818,OpenPlay,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,Youri Tielemans,Pass,65
+418377,66,SavedShot,0.738000031,0.637000008,89,51,0.020540453,James Maddison,a,6818,FromCorner,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,Ayoze P���������������,Pass,66
+418381,69,BlockedShot,0.745,0.454000015,89,36,0.015709972,James Maddison,a,6818,OpenPlay,2020,RightFoot,14772,Southampton,Leicester,1,1,4/30/2021 19:00,,Rebound,69
+419720,5,SavedShot,0.778000031,0.643000031,93,51,0.027480446,James Maddison,h,6818,OpenPlay,2020,RightFoot,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,Jamie Vardy,LayOff,5
+419726,23,BlockedShot,0.813000031,0.470999985,98,38,0.016419787,James Maddison,h,6818,FromCorner,2020,RightFoot,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,Youri Tielemans,Chipped,23
+419730,35,BlockedShot,0.841999969,0.510999985,101,41,0.090806015,James Maddison,h,6818,OpenPlay,2020,RightFoot,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,Kelechi Iheanacho,Pass,35
+419735,47,MissedShots,0.875,0.449000015,105,36,0.025794569,James Maddison,h,6818,OpenPlay,2020,Head,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,Kelechi Iheanacho,Chipped,47
+419736,53,BlockedShot,0.755,0.629000015,91,50,0.056808177,James Maddison,h,6818,DirectFreekick,2020,RightFoot,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,,Standard,53
+419746,74,BlockedShot,0.744000015,0.507000008,89,41,0.024022104,James Maddison,h,6818,OpenPlay,2020,RightFoot,14779,Leicester,Newcastle United,2,4,5/7/2021 19:00,Jamie Vardy,TakeOn,74
+421096,77,MissedShots,0.769000015,0.477999992,92,38,0.037873894,James Maddison,a,6818,OpenPlay,2020,RightFoot,14788,Manchester United,Leicester,1,2,5/11/2021 17:00,Kelechi Iheanacho,Pass,77
+424026,10,BlockedShot,0.755999985,0.664000015,91,53,0.018925317,James Maddison,h,6818,OpenPlay,2020,RightFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,Kelechi Iheanacho,Pass,10

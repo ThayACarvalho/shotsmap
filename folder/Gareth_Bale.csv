@@ -1,0 +1,39 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+382667,72,SavedShot,0.715999985,0.334000015,85.9199982,26.7200012,0.035884041,Gareth Bale,h,2251,DirectFreekick,2020,LeftFoot,14483,Tottenham,West Ham,3,3,10/18/2020 15:30,,Standard,72
+382672,91,MissedShots,0.869000015,0.425,104.2800018,34,0.292918384,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14483,Tottenham,West Ham,3,3,10/18/2020 15:30,Harry Kane,TakeOn,91
+385416,70,MissedShots,0.926999969,0.499000015,111.2399963,39.9200012,0.1149427,Gareth Bale,h,2251,FromCorner,2020,Head,14503,Tottenham,Brighton,2,1,11/1/2020 19:15,Giovani Lo Celso,Cross,70
+385418,72,Goal,0.91,0.557999992,109.2,44.63999936,0.283498645,Gareth Bale,h,2251,OpenPlay,2020,Head,14503,Tottenham,Brighton,2,1,11/1/2020 19:15,Sergio Reguil���������,Cross,72
+386346,49,MissedShots,0.911999969,0.537000008,109.4399963,42.96000064,0.109021299,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14513,West Bromwich Albion,Tottenham,0,1,11/8/2020 12:00,Harry Kane,Cross,49
+386348,57,BlockedShot,0.861999969,0.449000015,103.4399963,35.9200012,0.019231081,Gareth Bale,a,2251,OpenPlay,2020,Head,14513,West Bromwich Albion,Tottenham,0,1,11/8/2020 12:00,Matt Doherty,Cross,57
+394592,72,MissedShots,0.714000015,0.352999992,85.6800018,28.23999936,0.036783963,Gareth Bale,h,2251,DirectFreekick,2020,LeftFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,,Standard,72
+404429,80,SavedShot,0.845,0.527000008,101.4,42.16000064,0.16657868,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2/13/2021 17:30,,TakeOn,80
+404428,80,BlockedShot,0.685,0.527999992,82.2,42.23999936,0.008525386,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2/13/2021 17:30,,Aerial,80
+405828,61,SavedShot,0.716999969,0.415,86.03999628,33.2,0.011629183,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,,BallRecovery,61
+405832,78,ShotOnPost,0.818000031,0.487000008,98.16000372,38.96000064,0.048659299,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,Harry Kane,Pass,78
+405833,85,MissedShots,0.9,0.43,108,34.4,0.062288813,Gareth Bale,a,2251,OpenPlay,2020,Head,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,Matt Doherty,Cross,85
+407252,1,Goal,0.943000031,0.524000015,113.1600037,41.9200012,0.535212696,Gareth Bale,h,2251,OpenPlay,2020,RightFoot,14693,Tottenham,Burnley,4,0,2/28/2021 14:00,Son Heung-Min,Cross,1
+407261,25,MissedShots,0.919000015,0.367000008,110.2800018,29.36000064,0.123138845,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14693,Tottenham,Burnley,4,0,2/28/2021 14:00,Son Heung-Min,Pass,25
+407267,54,Goal,0.846999969,0.347999992,101.6399963,27.83999936,0.071305633,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14693,Tottenham,Burnley,4,0,2/28/2021 14:00,Son Heung-Min,Pass,54
+408222,15,MissedShots,0.715999985,0.375,85.9199982,30,0.039113842,Gareth Bale,a,2251,DirectFreekick,2020,LeftFoot,14757,Fulham,Tottenham,0,1,3/4/2021 18:00,,Standard,15
+408233,58,BlockedShot,0.689000015,0.532999992,82.6800018,42.63999936,0.034246787,Gareth Bale,a,2251,DirectFreekick,2020,LeftFoot,14757,Fulham,Tottenham,0,1,3/4/2021 18:00,,Standard,58
+409200,24,Goal,0.964000015,0.472000008,115.6800018,37.76000064,0.672995269,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14702,Tottenham,Crystal Palace,4,1,3/7/2021 19:15,Harry Kane,Pass,24
+409204,48,Goal,0.956999969,0.505999985,114.8399963,40.4799988,0.151348159,Gareth Bale,h,2251,OpenPlay,2020,Head,14702,Tottenham,Crystal Palace,4,1,3/7/2021 19:15,Harry Kane,Aerial,48
+413103,88,MissedShots,0.758000031,0.439000015,90.96000372,35.1200012,0.068316072,Gareth Bale,a,2251,DirectFreekick,2020,LeftFoot,14732,Newcastle United,Tottenham,2,2,4/4/2021 13:05,,Standard,88
+416403,53,SavedShot,0.740999985,0.312999992,88.9199982,25.03999936,0.01012066,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,Lucas Moura,TakeOn,53
+416406,59,Goal,0.945999985,0.335999985,113.5199982,26.8799988,0.056401007,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,,Rebound,59
+416407,69,MissedShots,0.800999985,0.312999992,96.1199982,25.03999936,0.022547841,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,,None,69
+419311,11,MissedShots,0.845,0.302999992,101.4,24.23999936,0.032380845,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Harry Kane,Pass,11
+419317,35,Goal,0.955,0.430999985,114.6,34.4799988,0.536138713,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Serge Aurier,Throughball,35
+419324,54,SavedShot,0.714000015,0.475999985,85.6800018,38.0799988,0.01898253,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Serge Aurier,BallRecovery,54
+419325,60,Goal,0.846999969,0.495999985,101.6399963,39.6799988,0.405147523,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Son Heung-Min,Pass,60
+419327,66,SavedShot,0.781999969,0.212999992,93.83999628,17.03999936,0.03926504,Gareth Bale,h,2251,DirectFreekick,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,,Standard,66
+419328,68,Goal,0.806999969,0.49,96.83999628,39.2,0.077924438,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Serge Aurier,Pass,68
+419831,14,BlockedShot,0.956999969,0.612000008,114.8399963,48.96000064,0.014473183,Gareth Bale,a,2251,FromCorner,2020,Head,14778,Leeds,Tottenham,3,1,5/8/2021 11:30,Son Heung-Min,Aerial,14
+422403,20,SavedShot,0.739000015,0.397999992,88.6800018,31.83999936,0.051303335,Gareth Bale,h,2251,DirectFreekick,2020,LeftFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,5/16/2021 13:05,,Standard,20
+422405,24,BlockedShot,0.841999969,0.447999992,101.0399963,35.83999936,0.058470652,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,5/16/2021 13:05,Son Heung-Min,Chipped,24
+422424,61,SavedShot,0.810999985,0.387999992,97.3199982,31.03999936,0.056342058,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,5/16/2021 13:05,Son Heung-Min,Pass,61
+423294,85,BlockedShot,0.856999969,0.404000015,102.8399963,32.3200012,0.049818266,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14803,Tottenham,Aston Villa,1,2,5/19/2021 17:00,Matt Doherty,Cross,85
+423295,88,MissedShots,0.809000015,0.462999992,97.0800018,37.03999936,0.061242957,Gareth Bale,h,2251,OpenPlay,2020,LeftFoot,14803,Tottenham,Aston Villa,1,2,5/19/2021 17:00,Dele Alli,TakeOn,88
+424041,86,Goal,0.85,0.525,102,42,0.083270885,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,Harry Kane,Pass,86
+424045,95,Goal,0.97,0.48,116.4,38.4,0.806208074,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,,Rebound,95
+424044,95,ShotOnPost,0.918000031,0.502000008,110.1600037,40.16000064,0.532180905,Gareth Bale,a,2251,OpenPlay,2020,LeftFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,,None,95

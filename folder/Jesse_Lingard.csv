@@ -1,0 +1,43 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+402850,10,BlockedShot,0.815999985,0.519000015,98,42,0.079830438,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,,TakeOn,10
+402852,14,SavedShot,0.765999985,0.699000015,92,56,0.021093085,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,Said Benrahma,Pass,14
+402855,19,BlockedShot,0.716999969,0.509000015,86,41,0.013918577,Jesse Lingard,a,558,FromCorner,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,,None,19
+402856,20,BlockedShot,0.711999969,0.46,85,37,0.019137667,Jesse Lingard,a,558,SetPiece,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,Aaron Cresswell,Pass,20
+402865,55,Goal,0.894000015,0.650999985,107,52,0.12442822,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,Michail Antonio,Chipped,55
+402874,82,Goal,0.903000031,0.317999992,108,25,0.106853753,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2/3/2021 20:15,Michail Antonio,Pass,82
+405036,13,SavedShot,0.849000015,0.615,102,49,0.074410491,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2/15/2021 18:00,Manuel Lanzini,Pass,13
+405037,23,SavedShot,0.931999969,0.685999985,112,55,0.105461702,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14674,West Ham,Sheffield United,3,0,2/15/2021 18:00,Manuel Lanzini,Chipped,23
+405047,64,SavedShot,0.710999985,0.462999992,85,37,0.027012246,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2/15/2021 18:00,Tomas Soucek,Pass,64
+405049,69,SavedShot,0.748000031,0.665999985,90,53,0.018753635,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2/15/2021 18:00,Ben Johnson,Pass,69
+405052,80,MissedShots,0.888000031,0.569000015,107,46,0.105648473,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2/15/2021 18:00,,None,80
+405825,46,Goal,0.88,0.656999969,106,53,0.080682844,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,Pablo Fornals,Pass,46
+406560,18,BlockedShot,0.949000015,0.681999969,114,55,0.02311882,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14689,Manchester City,West Ham,2,1,2/27/2021 12:30,,Aerial,18
+406558,18,BlockedShot,0.778000031,0.632999992,93,51,0.025110658,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14689,Manchester City,West Ham,2,1,2/27/2021 12:30,Aaron Cresswell,Pass,18
+406564,39,SavedShot,0.815999985,0.31,98,25,0.030076979,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14689,Manchester City,West Ham,2,1,2/27/2021 12:30,Vladimir Coufal,Pass,39
+406565,42,MissedShots,0.929000015,0.454000015,111,36,0.505140901,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14689,Manchester City,West Ham,2,1,2/27/2021 12:30,Vladimir Coufal,Pass,42
+409371,20,Goal,0.955,0.512000008,115,41,0.673061848,Jesse Lingard,h,558,SetPiece,2020,LeftFoot,14704,West Ham,Leeds,2,0,3/8/2021 20:00,,Rebound,20
+409370,20,SavedShot,0.885,0.5,106,40,0.761168838,Jesse Lingard,h,558,Penalty,2020,RightFoot,14704,West Ham,Leeds,2,0,3/8/2021 20:00,,Standard,20
+409375,33,MissedShots,0.858000031,0.723000031,103,58,0.035694405,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14704,West Ham,Leeds,2,0,3/8/2021 20:00,Said Benrahma,Pass,33
+411843,14,Goal,0.831999969,0.555,100,44,0.067873776,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14724,West Ham,Arsenal,3,3,3/21/2021 15:00,Michail Antonio,Pass,14
+411867,79,MissedShots,0.84,0.643000031,101,51,0.053497024,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14724,West Ham,Arsenal,3,3,3/21/2021 15:00,Michail Antonio,TakeOn,79
+413464,5,Goal,0.901999969,0.600999985,108,48,0.416640431,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,4/5/2021 19:15,Vladimir Coufal,Pass,5
+413466,11,SavedShot,0.859000015,0.663000031,103,53,0.06937696,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14734,Wolverhampton Wanderers,West Ham,2,3,4/5/2021 19:15,Arthur Masuaku,Pass,11
+414481,28,Goal,0.840999985,0.390999985,101,31,0.062451225,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,4/11/2021 13:05,Vladimir Coufal,Pass,28
+414483,37,SavedShot,0.845,0.422999992,101,34,0.122649238,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,4/11/2021 13:05,Vladimir Coufal,Pass,37
+414484,43,Goal,0.850999985,0.505999985,102,40,0.335431606,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,4/11/2021 13:05,Jarrod Bowen,Pass,43
+415140,51,BlockedShot,0.785999985,0.684000015,94,55,0.020139107,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,4/17/2021 11:30,Tomas Soucek,Pass,51
+415143,58,BlockedShot,0.798000031,0.755999985,96,60,0.012139376,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,4/17/2021 11:30,Ben Johnson,Pass,58
+415145,61,MissedShots,0.765,0.710999985,92,57,0.011532231,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,4/17/2021 11:30,Pablo Fornals,Pass,61
+415150,79,Goal,0.885,0.5,106,40,0.761168838,Jesse Lingard,a,558,Penalty,2020,RightFoot,14752,Newcastle United,West Ham,3,2,4/17/2021 11:30,,Standard,79
+417429,34,BlockedShot,0.758000031,0.537000008,91,43,0.026819073,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14763,West Ham,Chelsea,0,1,4/24/2021 16:30,Pablo Fornals,Pass,34
+417437,58,SavedShot,0.715,0.938000031,86,75,0.021266446,Jesse Lingard,h,558,DirectFreekick,2020,RightFoot,14763,West Ham,Chelsea,0,1,4/24/2021 16:30,,Standard,58
+417439,59,MissedShots,0.835,0.716999969,100,57,0.029590888,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,4/24/2021 16:30,,Rebound,59
+419570,89,SavedShot,0.9,0.327999992,108,26,0.106723063,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14766,Burnley,West Ham,1,2,5/3/2021 19:15,Pablo Fornals,Pass,89
+420739,20,BlockedShot,0.744000015,0.457999992,89,37,0.02327282,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14783,West Ham,Everton,0,1,5/9/2021 15:30,Michail Antonio,Pass,20
+420743,25,BlockedShot,0.955999985,0.312000008,115,25,0.049947772,Jesse Lingard,h,558,FromCorner,2020,RightFoot,14783,West Ham,Everton,0,1,5/9/2021 15:30,Pablo Fornals,Rebound,25
+422048,40,BlockedShot,0.785999985,0.604000015,94,48,0.024585729,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14785,Brighton,West Ham,1,1,5/15/2021 19:00,Aaron Cresswell,Pass,40
+422060,59,MissedShots,0.765,0.643000031,92,51,0.019663636,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14785,Brighton,West Ham,1,1,5/15/2021 19:00,Declan Rice,Pass,59
+423383,39,SavedShot,0.88,0.760999985,106,61,0.029877566,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14804,West Bromwich Albion,West Ham,1,3,5/19/2021 19:15,Pablo Fornals,Pass,39
+424123,19,MissedShots,0.736999969,0.710999985,88,57,0.010616044,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,5/23/2021 15:00,,None,19
+424136,35,SavedShot,0.810999985,0.804000015,97,64,0.028210079,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,5/23/2021 15:00,Pablo Fornals,Pass,35
+424140,46,BlockedShot,0.890999985,0.550999985,107,44,0.115092054,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,5/23/2021 15:00,Tomas Soucek,Rebound,46
