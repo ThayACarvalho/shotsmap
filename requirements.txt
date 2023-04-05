@@ -1,9 +1,8 @@
-streamlit as st
+streamlit
 mplsoccer 
-matplotlib.pyplot as plt
-pandas as pd
-numpy as np
-seaborn as sns
-statsbombpy as sb
-statsbombpy import sb
-mplsoccer import VerticalPitch
+matplotlib.pyplot
+pandas
+numpy
+seaborn
+statsbombpy
+VerticalPitch
