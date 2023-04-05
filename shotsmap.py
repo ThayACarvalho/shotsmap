@@ -1,10 +1,3 @@
-!pip install mplsoccer 
-!pip install statsbombpy
-!pip install matplotlib
-!pip install numpy
-!pip install pandas
-!pip install seaborn
-
 import streamlit as st
 import mplsoccer 
 from mplsoccer import Pitch
