@@ -1,0 +1,87 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+426431,27,BlockedShot,0.905999985,0.420999985,109,34,0.124467291,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Steven Bergwijn,Pass,27
+426434,39,MissedShots,0.811999969,0.542000008,97,43,0.075522967,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Lucas Moura,Pass,39
+426436,41,MissedShots,0.800999985,0.347999992,96,28,0.019126309,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Lucas Moura,HeadPass,41
+426444,54,Goal,0.805999985,0.324000015,97,26,0.027829401,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Steven Bergwijn,Pass,54
+426452,78,BlockedShot,0.781999969,0.449000015,94,36,0.026767267,Son Heung-Min,h,453,SetPiece,2021,RightFoot,16385,Tottenham,Manchester City,1,0,8/15/2021 15:30,Pierre-Emile H������������,Pass,78
+427558,64,BlockedShot,0.850999985,0.462999992,102,37,0.091090806,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,8/22/2021 13:00,Steven Bergwijn,Pass,64
+427557,64,SavedShot,0.898000031,0.372999992,108,30,0.085900985,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,8/22/2021 13:00,,Rebound,64
+429071,32,MissedShots,0.854000015,0.680999985,102,54,0.044658266,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16404,Tottenham,Watford,1,0,8/29/2021 13:00,Sergio Reguil�������,Pass,32
+429073,41,Goal,0.801999969,0.905,96,72,0.027735658,Son Heung-Min,h,453,DirectFreekick,2021,RightFoot,16404,Tottenham,Watford,1,0,8/29/2021 13:00,,Standard,41
+429077,58,SavedShot,0.78,0.690999985,94,55,0.016452946,Son Heung-Min,h,453,SetPiece,2021,RightFoot,16404,Tottenham,Watford,1,0,8/29/2021 13:00,,Dispossessed,58
+431968,1,BlockedShot,0.783000031,0.703000031,94,56,0.019431753,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16425,Tottenham,Chelsea,0,3,9/19/2021 15:30,Tanguy NDombele Alvaro,Pass,1
+431979,32,SavedShot,0.91,0.425,109,34,0.414592624,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16425,Tottenham,Chelsea,0,3,9/19/2021 15:30,Giovani Lo Celso,Pass,32
+434201,21,SavedShot,0.931999969,0.709000015,112,57,0.091141328,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16434,Arsenal,Tottenham,3,1,9/26/2021 15:30,,BallRecovery,21
+434216,78,Goal,0.91,0.53,109,42,0.29918772,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16434,Arsenal,Tottenham,3,1,9/26/2021 15:30,Sergio Reguil�������,Cross,78
+435332,17,BlockedShot,0.885,0.392000008,106,31,0.094014965,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16443,Tottenham,Aston Villa,2,1,10/3/2021 13:00,Lucas Moura,Pass,17
+435335,23,MissedShots,0.765,0.522000008,92,42,0.028086869,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16443,Tottenham,Aston Villa,2,1,10/3/2021 13:00,Lucas Moura,Pass,23
+435347,52,MissedShots,0.885999985,0.629000015,106,50,0.05862866,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16443,Tottenham,Aston Villa,2,1,10/3/2021 13:00,Emerson,Cross,52
+435348,55,MissedShots,0.753000031,0.607999992,90,49,0.02657898,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16443,Tottenham,Aston Villa,2,1,10/3/2021 13:00,,None,55
+435350,59,SavedShot,0.969000015,0.577999992,116,46,0.338122457,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16443,Tottenham,Aston Villa,2,1,10/3/2021 13:00,Eric Dier,Chipped,59
+437028,48,Goal,0.965,0.545,116,44,0.682993591,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16452,Newcastle United,Tottenham,2,3,10/17/2021 15:30,Harry Kane,Pass,48
+438244,24,SavedShot,0.895999985,0.355,108,28,0.321816593,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16465,West Ham,Tottenham,1,0,10/24/2021 13:00,Tanguy NDombele Alvaro,Throughball,24
+439890,5,BlockedShot,0.765,0.312000008,92,25,0.014818065,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16473,Tottenham,Manchester United,0,3,10/30/2021 16:30,,None,5
+439896,23,MissedShots,0.959000015,0.587999992,115,47,0.350670904,Son Heung-Min,h,453,SetPiece,2021,RightFoot,16473,Tottenham,Manchester United,0,3,10/30/2021 16:30,Lucas Moura,Chipped,23
+439905,46,MissedShots,0.81,0.525,97,42,0.056648962,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,10/30/2021 16:30,Lucas Moura,Pass,46
+443386,50,MissedShots,0.939000015,0.312000008,113,25,0.051376689,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16493,Tottenham,Leeds,2,1,11/21/2021 16:30,Lucas Moura,Chipped,50
+443402,79,MissedShots,0.719000015,0.480999985,86,38,0.01860212,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16493,Tottenham,Leeds,2,1,11/21/2021 16:30,,None,79
+445748,35,SavedShot,0.794000015,0.584000015,95,47,0.057574894,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16515,Tottenham,Brentford,2,0,12/2/2021 19:30,Pierre-Emile H������������,BallRecovery,35
+445758,64,Goal,0.950999985,0.475,114,38,0.782133877,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16515,Tottenham,Brentford,2,0,12/2/2021 19:30,Sergio Reguil�������,Pass,64
+446734,28,MissedShots,0.811999969,0.648000031,97,52,0.046096947,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16522,Tottenham,Norwich,3,0,12/5/2021 14:00,Lucas Moura,Pass,28
+446741,42,BlockedShot,0.855,0.505999985,103,40,0.07236243,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16522,Tottenham,Norwich,3,0,12/5/2021 14:00,Ben Davies,Cross,42
+446753,76,Goal,0.91,0.460999985,109,37,0.137998775,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16522,Tottenham,Norwich,3,0,12/5/2021 14:00,Ben Davies,Pass,76
+449810,15,MissedShots,0.905,0.54,109,43,0.588519692,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16552,Tottenham,Liverpool,2,2,12/19/2021 16:30,Harry Kane,Pass,15
+449831,73,Goal,0.93,0.678000031,112,54,0.31465444,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16552,Tottenham,Liverpool,2,2,12/19/2021 16:30,,None,73
+450552,2,SavedShot,0.743000031,0.44,89,35,0.020786829,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16563,Tottenham,Crystal Palace,3,0,12/26/2021 15:00,Lucas Moura,Pass,2
+450564,73,Goal,0.965,0.435999985,116,35,0.537869453,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16563,Tottenham,Crystal Palace,3,0,12/26/2021 15:00,Lucas Moura,Cross,73
+450726,34,SavedShot,0.749000015,0.622999992,90,50,0.019778317,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Harry Kane,Pass,34
+450731,54,BlockedShot,0.903000031,0.658000031,108,53,0.079134651,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Harry Kane,Pass,54
+450732,58,BlockedShot,0.928000031,0.632999992,111,51,0.070601985,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Ben Davies,Cross,58
+450741,78,SavedShot,0.928000031,0.455,111,36,0.05881973,Son Heung-Min,a,453,OpenPlay,2021,Head,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Bryan Gil Salvatierra,Aerial,78
+450745,90,SavedShot,0.93,0.487000008,112,39,0.137256026,Son Heung-Min,a,453,OpenPlay,2021,Head,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Harry Winks,Cross,90
+450970,37,BlockedShot,0.875999985,0.464000015,105,37,0.086076632,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16585,Watford,Tottenham,0,1,1/1/2022 15:00,Emerson,Cross,37
+450981,66,MissedShots,0.926999969,0.534000015,111,43,0.145998046,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16585,Watford,Tottenham,0,1,1/1/2022 15:00,Emerson,Rebound,66
+450983,71,SavedShot,0.926999969,0.452000008,111,36,0.349216968,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16585,Watford,Tottenham,0,1,1/1/2022 15:00,Lucas Moura,Chipped,71
+450984,76,MissedShots,0.859000015,0.658000031,103,53,0.047285903,Son Heung-Min,a,453,FromCorner,2021,RightFoot,16585,Watford,Tottenham,0,1,1/1/2022 15:00,Ben Davies,Pass,76
+456631,69,Goal,0.919000015,0.532000008,110,43,0.485161811,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16613,Tottenham,Southampton,2,3,2/9/2022 19:45,Lucas Moura,Pass,69
+457509,15,SavedShot,0.874000015,0.337000008,105,27,0.055490538,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2/13/2022 14:00,Rodrigo Bentancur,Pass,15
+457516,36,SavedShot,0.894000015,0.705,107,56,0.033774111,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2/13/2022 14:00,Rodrigo Bentancur,Chipped,36
+457526,66,BlockedShot,0.81,0.630999985,97,50,0.104813799,Son Heung-Min,h,453,DirectFreekick,2021,RightFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2/13/2022 14:00,,Standard,66
+458474,53,SavedShot,0.794000015,0.369000015,95,30,0.144006759,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2/19/2022 17:30,Harry Kane,Throughball,53
+459528,5,SavedShot,0.749000015,0.437999992,90,35,0.018922651,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16642,Leeds,Tottenham,0,4,2/26/2022 12:30,Harry Winks,Pass,5
+459543,55,SavedShot,0.818000031,0.435,98,35,0.100957051,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2/26/2022 12:30,Cristian Romero,TakeOn,55
+459546,60,BlockedShot,0.894000015,0.404000015,107,32,0.408847868,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2/26/2022 12:30,,Rebound,60
+459556,84,Goal,0.881999969,0.364000015,106,29,0.363531947,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2/26/2022 12:30,Harry Kane,Throughball,84
+462033,16,Goal,0.859000015,0.377000008,103,30,0.323639721,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16653,Tottenham,Everton,5,0,3/7/2022 20:00,Dejan Kulusevski,Pass,16
+462034,27,SavedShot,0.854000015,0.644000015,102,52,0.359260321,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16653,Tottenham,Everton,5,0,3/7/2022 20:00,Matt Doherty,Throughball,27
+462653,15,BlockedShot,0.835999985,0.555,100,44,0.070622116,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16663,Manchester United,Tottenham,3,2,3/12/2022 17:30,Sergio Reguil�������,Pass,15
+462666,60,MissedShots,0.875,0.44,105,35,0.094957203,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,3/12/2022 17:30,Dejan Kulusevski,Pass,60
+463586,50,BlockedShot,0.881999969,0.337999992,106,27,0.078695342,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16528,Brighton,Tottenham,0,2,3/16/2022 19:30,Cristian Romero,Pass,50
+464656,10,ShotOnPost,0.915999985,0.462999992,110,37,0.507836163,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16673,Tottenham,West Ham,3,1,3/20/2022 16:30,Dejan Kulusevski,Pass,10
+464658,23,Goal,0.913000031,0.656999969,110,53,0.132736519,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16673,Tottenham,West Ham,3,1,3/20/2022 16:30,Harry Kane,Throughball,23
+464674,87,Goal,0.855999985,0.522000008,103,42,0.319383055,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16673,Tottenham,West Ham,3,1,3/20/2022 16:30,Harry Kane,HeadPass,87
+465996,28,SavedShot,0.793000031,0.362999992,95,29,0.029963931,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16678,Tottenham,Newcastle United,5,1,4/3/2022 15:30,Rodrigo Bentancur,Pass,28
+466002,53,Goal,0.906999969,0.487999992,109,39,0.46008274,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16678,Tottenham,Newcastle United,5,1,4/3/2022 15:30,Dejan Kulusevski,Pass,53
+466006,64,MissedShots,0.878000031,0.602000008,105,48,0.318736911,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16678,Tottenham,Newcastle United,5,1,4/3/2022 15:30,Harry Kane,Chipped,64
+466013,87,BlockedShot,0.856999969,0.675999985,103,54,0.082118779,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16678,Tottenham,Newcastle United,5,1,4/3/2022 15:30,Harry Kane,Chipped,87
+466861,2,Goal,0.85,0.502999992,102,40,0.067647934,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16694,Aston Villa,Tottenham,0,4,4/9/2022 16:30,,Rebound,2
+466886,65,Goal,0.855999985,0.549000015,103,44,0.38041535,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16694,Aston Villa,Tottenham,0,4,4/9/2022 16:30,Harry Kane,HeadPass,65
+466887,70,Goal,0.861999969,0.462000008,103,37,0.121587962,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,4/9/2022 16:30,Dejan Kulusevski,Pass,70
+467927,50,BlockedShot,0.869000015,0.56,104,45,0.101833098,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16699,Tottenham,Brighton,0,1,4/16/2022 11:30,Harry Kane,Pass,50
+467928,57,BlockedShot,0.88,0.542000008,106,43,0.08684808,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16699,Tottenham,Brighton,0,1,4/16/2022 11:30,,None,57
+472050,59,Goal,0.91,0.557999992,109,45,0.140475735,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16719,Tottenham,Leicester,3,1,5/1/2022 13:00,Dejan Kulusevski,Pass,59
+472052,65,SavedShot,0.920999985,0.569000015,111,46,0.298454881,Son Heung-Min,h,453,OpenPlay,2021,Head,16719,Tottenham,Leicester,3,1,5/1/2022 13:00,Pierre-Emile H������������,Cross,65
+472054,78,Goal,0.78,0.295,94,24,0.019188674,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16719,Tottenham,Leicester,3,1,5/1/2022 13:00,Dejan Kulusevski,Pass,78
+473777,53,BlockedShot,0.865,0.637000008,104,51,0.132143259,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16728,Liverpool,Tottenham,1,1,5/7/2022 18:45,,TakeOn,53
+473778,55,Goal,0.931999969,0.472000008,112,38,0.573435009,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16728,Liverpool,Tottenham,1,1,5/7/2022 18:45,Ryan Sessegnon,Pass,55
+475384,46,Goal,0.874000015,0.557000008,105,45,0.110820703,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16593,Tottenham,Arsenal,3,0,5/12/2022 18:45,,Dispossessed,46
+475388,62,MissedShots,0.913000031,0.509000015,110,41,0.550334036,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16593,Tottenham,Arsenal,3,0,5/12/2022 18:45,Ryan Sessegnon,Pass,62
+476267,64,SavedShot,0.911999969,0.592999992,109,47,0.393249631,Son Heung-Min,h,453,OpenPlay,2021,LeftFoot,16739,Tottenham,Burnley,1,0,5/15/2022 11:00,Ryan Sessegnon,Pass,64
+476270,80,SavedShot,0.905,0.515,109,41,0.125850588,Son Heung-Min,h,453,OpenPlay,2021,RightFoot,16739,Tottenham,Burnley,1,0,5/15/2022 11:00,Ryan Sessegnon,Cross,80
+477969,33,MissedShots,0.821999969,0.564000015,99,45,0.136766136,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,Pierre-Emile H������������,Chipped,33
+477976,54,SavedShot,0.905,0.629000015,109,50,0.104050837,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,Harry Kane,Pass,54
+477981,59,MissedShots,0.966999969,0.502999992,116,40,0.902709901,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,,Rebound,59
+477980,59,SavedShot,0.933000031,0.497000008,112,40,0.570548832,Son Heung-Min,a,453,OpenPlay,2021,LeftFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,Harry Kane,Cross,59
+477984,69,SavedShot,0.851999969,0.482000008,102,39,0.332894236,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,Lucas Moura,Chipped,69
+477985,69,Goal,0.865999985,0.47,104,38,0.379743516,Son Heung-Min,a,453,OpenPlay,2021,RightFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,Lucas Moura,Pass,69
+477986,74,Goal,0.78,0.645,94,52,0.01120637,Son Heung-Min,a,453,SetPiece,2021,RightFoot,16755,Norwich,Tottenham,0,5,5/22/2022 15:00,,Aerial,74

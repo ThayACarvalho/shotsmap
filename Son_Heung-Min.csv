@@ -1,0 +1,69 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+376944,2,SavedShot,0.771999969,0.703000031,93,56,0.0191379,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14093,Tottenham,Everton,0,1,9/13/2020 15:30,Harry Kane,Pass,2
+376947,25,BlockedShot,0.9,0.716999969,108,57,0.033409711,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14093,Tottenham,Everton,0,1,9/13/2020 15:30,Dele Alli,HeadPass,25
+377887,46,Goal,0.856999969,0.512999992,103,41,0.411376685,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,Harry Kane,TakeOn,46
+377885,46,Goal,0.929000015,0.32,111,26,0.093986474,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,Harry Kane,Pass,46
+377892,63,Goal,0.890999985,0.402999992,107,32,0.305005401,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,Harry Kane,Chipped,63
+377894,72,Goal,0.951999969,0.557000008,114,45,0.538229108,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,Harry Kane,Cross,72
+379410,29,ShotOnPost,0.771999969,0.397000008,93,32,0.034574077,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14111,Tottenham,Newcastle United,1,1,9/27/2020 13:00,Harry Kane,Pass,29
+379415,41,ShotOnPost,0.785999985,0.569000015,94,46,0.035653565,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14111,Tottenham,Newcastle United,1,1,9/27/2020 13:00,Matt Doherty,HeadPass,41
+381357,6,Goal,0.913000031,0.625,110,50,0.29423365,Son Heung-Min,a,453,SetPiece,2020,LeftFoot,14471,Manchester United,Tottenham,1,6,10/4/2020 15:30,Harry Kane,Pass,6
+381369,36,Goal,0.97,0.407000008,116,33,0.142935336,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14471,Manchester United,Tottenham,1,6,10/4/2020 15:30,Serge Aurier,Pass,36
+382650,0,Goal,0.859000015,0.612999992,103,49,0.061016202,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14483,Tottenham,West Ham,3,3,10/18/2020 15:30,Harry Kane,Chipped,0
+382656,34,SavedShot,0.955,0.480999985,115,38,0.598654509,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14483,Tottenham,West Ham,3,3,10/18/2020 15:30,Serge Aurier,Cross,34
+384278,73,BlockedShot,0.896999969,0.39,108,31,0.103208274,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14488,Burnley,Tottenham,0,1,10/26/2020 20:00,Tanguy NDombele Alvaro,Pass,73
+384281,75,Goal,0.956999969,0.550999985,115,44,0.387568623,Son Heung-Min,a,453,FromCorner,2020,Head,14488,Burnley,Tottenham,0,1,10/26/2020 20:00,Harry Kane,Rebound,75
+385409,19,MissedShots,0.803000031,0.709000015,96,57,0.031925403,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14503,Tottenham,Brighton,2,1,11/1/2020 19:15,,BallRecovery,19
+386338,12,BlockedShot,0.889000015,0.427000008,107,34,0.362159997,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14513,West Bromwich Albion,Tottenham,0,1,11/8/2020 12:00,Tanguy NDombele Alvaro,Pass,12
+386352,62,SavedShot,0.848000031,0.72,102,58,0.030036751,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14513,West Bromwich Albion,Tottenham,0,1,11/8/2020 12:00,Harry Kane,Pass,62
+386362,82,BlockedShot,0.789000015,0.725999985,95,58,0.020159623,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14513,West Bromwich Albion,Tottenham,0,1,11/8/2020 12:00,Harry Kane,Pass,82
+387534,4,Goal,0.815,0.590999985,98,47,0.287468135,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,11/21/2020 17:30,Tanguy NDombele Alvaro,Chipped,4
+387550,58,BlockedShot,0.821999969,0.464000015,99,37,0.069674522,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14523,Tottenham,Manchester City,2,0,11/21/2020 17:30,,None,58
+390926,12,Goal,0.765999985,0.714000015,92,57,0.019218277,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14542,Tottenham,Arsenal,2,0,12/6/2020 16:30,Harry Kane,Pass,12
+392178,8,MissedShots,0.949000015,0.350999985,114,28,0.115752004,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14545,Crystal Palace,Tottenham,1,1,12/13/2020 14:15,Toby Alderweireld,Throughball,8
+393456,32,Goal,0.871999969,0.575999985,105,46,0.348165601,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14563,Liverpool,Tottenham,2,1,12/16/2020 20:00,Giovani Lo Celso,Throughball,32
+394591,70,BlockedShot,0.84,0.719000015,101,58,0.011632348,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,Pierre-Emile H������������������������,HeadPass,70
+394590,70,SavedShot,0.964000015,0.555,116,44,0.582092941,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14573,Tottenham,Leicester,0,2,12/20/2020 14:15,Toby Alderweireld,Rebound,70
+395804,0,SavedShot,0.973000031,0.679000015,117,54,0.053613923,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14584,Wolverhampton Wanderers,Tottenham,1,1,12/27/2020 19:15,Ben Davies,Chipped,0
+396290,42,Goal,0.91,0.452999992,109,36,0.331130654,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14599,Tottenham,Leeds,3,0,1/2/2021 12:30,Harry Kane,Cross,42
+396295,54,BlockedShot,0.8,0.650999985,96,52,0.065428875,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14599,Tottenham,Leeds,3,0,1/2/2021 12:30,Harry Winks,TakeOn,54
+398716,17,SavedShot,0.954000015,0.457999992,114,37,0.572406769,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14589,Tottenham,Fulham,1,1,1/13/2021 20:00,Serge Aurier,Cross,17
+398719,23,SavedShot,0.925,0.497000008,111,40,0.40020439,Son Heung-Min,h,453,OpenPlay,2020,Head,14589,Tottenham,Fulham,1,1,1/13/2021 20:00,Tanguy NDombele Alvaro,Cross,23
+398733,70,ShotOnPost,0.873000031,0.62,105,50,0.284774005,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14589,Tottenham,Fulham,1,1,1/13/2021 20:00,Tanguy NDombele Alvaro,Pass,70
+398737,85,MissedShots,0.898000031,0.550999985,108,44,0.241859421,Son Heung-Min,h,453,OpenPlay,2020,Head,14589,Tottenham,Fulham,1,1,1/13/2021 20:00,Sergio Reguil���������,Cross,85
+399377,7,ShotOnPost,0.854000015,0.288999996,102,23,0.308397174,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14622,Sheffield United,Tottenham,1,3,1/17/2021 14:00,Harry Kane,Throughball,7
+399398,76,BlockedShot,0.85,0.624000015,102,50,0.086055763,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14622,Sheffield United,Tottenham,1,3,1/17/2021 14:00,Harry Kane,Pass,76
+401362,6,MissedShots,0.459000015,0.452000008,55,36,0.00694916,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,1/28/2021 20:00,,BallRecovery,6
+401365,21,SavedShot,0.861999969,0.686999969,103,55,0.068384178,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14633,Tottenham,Liverpool,1,3,1/28/2021 20:00,Steven Bergwijn,Pass,21
+402323,50,BlockedShot,0.825999985,0.394000015,99,32,0.054842182,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14636,Brighton,Tottenham,1,0,1/31/2021 19:15,Moussa Sissoko,Pass,50
+402331,74,SavedShot,0.738000031,0.522000008,89,42,0.020990392,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14636,Brighton,Tottenham,1,0,1/31/2021 19:15,Steven Bergwijn,Pass,74
+402880,5,SavedShot,0.76,0.417000008,91,33,0.032380421,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14653,Tottenham,Chelsea,0,1,2/4/2021 20:00,,TakeOn,5
+402903,92,MissedShots,0.855,0.332000008,103,27,0.060015153,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14653,Tottenham,Chelsea,0,1,2/4/2021 20:00,,TakeOn,92
+403543,9,SavedShot,0.773000031,0.643000031,93,51,0.020745151,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14663,Tottenham,West Bromwich Albion,2,0,2/7/2021 12:00,Harry Kane,Chipped,9
+403553,45,SavedShot,0.895999985,0.680999985,108,54,0.085615888,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14663,Tottenham,West Bromwich Albion,2,0,2/7/2021 12:00,Harry Kane,Pass,45
+403556,57,Goal,0.873000031,0.425,105,34,0.441821516,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14663,Tottenham,West Bromwich Albion,2,0,2/7/2021 12:00,Lucas Moura,Pass,57
+405818,27,BlockedShot,0.889000015,0.875,107,70,0.042000189,Son Heung-Min,a,453,DirectFreekick,2020,RightFoot,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,,Standard,27
+405835,92,MissedShots,0.819000015,0.650999985,98,52,0.033213705,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14683,West Ham,Tottenham,2,1,2/21/2021 12:00,Eric Dier,BallTouch,92
+407274,72,SavedShot,0.87,0.577000008,104,46,0.124357715,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14693,Tottenham,Burnley,4,0,2/28/2021 14:00,Dele Alli,Pass,72
+407275,82,MissedShots,0.793000031,0.390999985,95,31,0.144002184,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14693,Tottenham,Burnley,4,0,2/28/2021 14:00,Harry Kane,Throughball,82
+408226,28,MissedShots,0.739000015,0.746999969,89,60,0.016936408,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14757,Fulham,Tottenham,0,1,3/4/2021 18:00,Harry Kane,Pass,28
+408228,39,MissedShots,0.943000031,0.625,113,50,0.047135316,Son Heung-Min,a,453,OpenPlay,2020,Head,14757,Fulham,Tottenham,0,1,3/4/2021 18:00,Dele Alli,Cross,39
+409199,5,SavedShot,0.909000015,0.57,109,46,0.26802057,Son Heung-Min,h,453,OpenPlay,2020,Head,14702,Tottenham,Crystal Palace,4,1,3/7/2021 19:15,Gareth Bale,Cross,5
+409207,54,MissedShots,0.774000015,0.649000015,93,52,0.040416986,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14702,Tottenham,Crystal Palace,4,1,3/7/2021 19:15,Gareth Bale,Chipped,54
+414629,2,MissedShots,0.855,0.515,103,41,0.065178111,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14742,Tottenham,Manchester United,1,3,4/11/2021 15:30,,None,2
+414631,39,Goal,0.931999969,0.605,112,48,0.386114746,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,4/11/2021 15:30,Lucas Moura,Pass,39
+414638,59,SavedShot,0.895,0.622999992,107,50,0.070679836,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,4/11/2021 15:30,Serge Aurier,Rebound,59
+414649,83,MissedShots,0.935999985,0.69,112,55,0.041410703,Son Heung-Min,h,453,FromCorner,2020,RightFoot,14742,Tottenham,Manchester United,1,3,4/11/2021 15:30,,None,83
+415050,0,BlockedShot,0.745,0.285,89,23,0.013434292,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14748,Everton,Tottenham,2,2,4/16/2021 19:00,,BallRecovery,0
+415065,51,SavedShot,0.968000031,0.671999969,116,54,0.079087682,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14748,Everton,Tottenham,2,2,4/16/2021 19:00,Harry Kane,TakeOn,51
+415071,70,BlockedShot,0.781999969,0.605999985,94,48,0.02719908,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14748,Everton,Tottenham,2,2,4/16/2021 19:00,Lucas Moura,Pass,70
+416402,50,BlockedShot,0.851999969,0.614000015,102,49,0.050711438,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,Gareth Bale,Pass,50
+416408,89,Goal,0.885,0.5,106,40,0.761168838,Son Heung-Min,h,453,Penalty,2020,RightFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,,Standard,89
+419313,15,SavedShot,0.773000031,0.614000015,93,49,0.025608644,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Serge Aurier,Pass,15
+419331,76,Goal,0.788000031,0.617000008,95,49,0.043065414,Son Heung-Min,h,453,OpenPlay,2020,RightFoot,14773,Tottenham,Sheffield United,4,0,5/2/2021 18:15,Steven Bergwijn,Pass,76
+419833,24,Goal,0.883000031,0.455,106,36,0.407306373,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14778,Leeds,Tottenham,3,1,5/8/2021 11:30,Dele Alli,Pass,24
+419841,54,MissedShots,0.875,0.684000015,105,55,0.047536083,Son Heung-Min,a,453,OpenPlay,2020,LeftFoot,14778,Leeds,Tottenham,3,1,5/8/2021 11:30,Giovani Lo Celso,Pass,54
+419842,59,BlockedShot,0.805,0.455,97,36,0.041146599,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14778,Leeds,Tottenham,3,1,5/8/2021 11:30,Giovani Lo Celso,BallTouch,59
+422407,37,SavedShot,0.916999969,0.650999985,110,52,0.072305195,Son Heung-Min,h,453,OpenPlay,2020,LeftFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,5/16/2021 13:05,Harry Kane,HeadPass,37
+424024,2,BlockedShot,0.845999985,0.715,102,57,0.026242658,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,Sergio Reguil���������,Pass,2
+424038,77,SavedShot,0.901999969,0.665,108,53,0.076117903,Son Heung-Min,a,453,OpenPlay,2020,RightFoot,14809,Leicester,Tottenham,2,4,5/23/2021 15:00,Gareth Bale,Pass,77

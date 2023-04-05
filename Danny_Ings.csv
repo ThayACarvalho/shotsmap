@@ -1,0 +1,58 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+376519,31,SavedShot,0.97,0.324000015,116.4,25.9200012,0.022525609,Danny Ings,a,986,OpenPlay,2020,Head,14087,Crystal Palace,Southampton,1,0,9/12/2020 14:00,,None,31
+376523,55,BlockedShot,0.866999969,0.572999992,104.0399963,45.83999936,0.067831382,Danny Ings,a,986,OpenPlay,2020,RightFoot,14087,Crystal Palace,Southampton,1,0,9/12/2020 14:00,Ryan Bertrand,HeadPass,55
+376530,94,SavedShot,0.913000031,0.475,109.5600037,38,0.3524279,Danny Ings,a,986,OpenPlay,2020,Head,14087,Crystal Palace,Southampton,1,0,9/12/2020 14:00,Kyle Walker-Peters,Cross,94
+377884,31,Goal,0.925999985,0.317999992,111.1199982,25.43999936,0.056798305,Danny Ings,h,986,OpenPlay,2020,RightFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,Kyle Walker-Peters,Chipped,31
+377900,89,Goal,0.885,0.5,106.2,40,0.761168838,Danny Ings,h,986,Penalty,2020,RightFoot,14100,Southampton,Tottenham,2,5,9/20/2020 11:00,,Standard,89
+379105,4,Goal,0.906999969,0.430999985,108.8399963,34.4799988,0.420690656,Danny Ings,a,986,OpenPlay,2020,RightFoot,14109,Burnley,Southampton,0,1,9/26/2020 19:00,Che Adams,Pass,4
+380954,26,SavedShot,0.876999969,0.405999985,105.2399963,32.4799988,0.029951267,Danny Ings,h,986,SetPiece,2020,Head,14473,Southampton,West Bromwich Albion,2,0,10/4/2020 11:00,James Ward-Prowse,Cross,26
+380957,38,MissedShots,0.788000031,0.799000015,94.56000372,63.9200012,0.013049487,Danny Ings,h,986,OpenPlay,2020,RightFoot,14473,Southampton,West Bromwich Albion,2,0,10/4/2020 11:00,Ryan Bertrand,BallTouch,38
+381887,4,BlockedShot,0.823000031,0.663000031,98.76000372,53.04000248,0.035704799,Danny Ings,a,986,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,10/17/2020 14:00,Theo Walcott,Pass,4
+381898,42,Goal,0.910999985,0.487999992,109.3199982,39.03999936,0.420910567,Danny Ings,a,986,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,10/17/2020 14:00,Che Adams,Throughball,42
+381899,53,MissedShots,0.793000031,0.457999992,95.16000372,36.63999936,0.036770005,Danny Ings,a,986,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,10/17/2020 14:00,Jan Bednarek,Pass,53
+381906,80,SavedShot,0.873000031,0.394000015,104.7600037,31.5200012,0.080168918,Danny Ings,a,986,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,10/17/2020 14:00,Theo Walcott,Pass,80
+383927,86,MissedShots,0.831999969,0.639000015,99.83999628,51.1200012,0.04475861,Danny Ings,h,986,FromCorner,2020,RightFoot,14492,Southampton,Everton,2,0,10/25/2020 14:00,James Ward-Prowse,Pass,86
+384945,2,MissedShots,0.93,0.555,111.6,44.4,0.09648934,Danny Ings,a,986,FromCorner,2020,Head,14495,Aston Villa,Southampton,3,4,11/1/2020 12:00,James Ward-Prowse,Cross,2
+384958,57,Goal,0.81,0.684000015,97.2,54.7200012,0.044343524,Danny Ings,a,986,OpenPlay,2020,RightFoot,14495,Aston Villa,Southampton,3,4,11/1/2020 12:00,Stuart Armstrong,Pass,57
+391159,62,SavedShot,0.89,0.397999992,106.8,31.83999936,0.023236141,Danny Ings,a,986,FromCorner,2020,Head,14536,Brighton,Southampton,1,2,12/7/2020 20:00,Stuart Armstrong,Cross,62
+391163,80,Goal,0.885,0.5,106.2,40,0.761168838,Danny Ings,a,986,Penalty,2020,RightFoot,14536,Brighton,Southampton,1,2,12/7/2020 20:00,,Standard,80
+391914,15,SavedShot,0.909000015,0.585,109.0800018,46.8,0.389667392,Danny Ings,h,986,OpenPlay,2020,RightFoot,14551,Southampton,Sheffield United,3,0,12/13/2020 12:00,Che Adams,Throughball,15
+391917,23,BlockedShot,0.904000015,0.605,108.4800018,48.4,0.08683154,Danny Ings,h,986,OpenPlay,2020,LeftFoot,14551,Southampton,Sheffield United,3,0,12/13/2020 12:00,,Rebound,23
+391916,23,BlockedShot,0.841999969,0.625,101.0399963,50,0.051842194,Danny Ings,h,986,OpenPlay,2020,RightFoot,14551,Southampton,Sheffield United,3,0,12/13/2020 12:00,Che Adams,Chipped,23
+391923,58,MissedShots,0.85,0.550999985,102,44.0799988,0.087371811,Danny Ings,h,986,OpenPlay,2020,RightFoot,14551,Southampton,Sheffield United,3,0,12/13/2020 12:00,,None,58
+391927,73,SavedShot,0.919000015,0.59,110.2800018,47.2,0.380018681,Danny Ings,h,986,OpenPlay,2020,LeftFoot,14551,Southampton,Sheffield United,3,0,12/13/2020 12:00,Che Adams,Chipped,73
+393073,46,MissedShots,0.743000031,0.494000015,89.16000372,39.5200012,0.029169837,Danny Ings,a,986,OpenPlay,2020,RightFoot,14555,Arsenal,Southampton,1,1,12/16/2020 18:00,,TakeOn,46
+393984,19,BlockedShot,0.855,0.617999992,102.6,49.43999936,0.066527396,Danny Ings,h,986,OpenPlay,2020,RightFoot,14572,Southampton,Manchester City,0,1,12/19/2020 15:00,Oriol Romeu,Pass,19
+393987,26,MissedShots,0.924000015,0.475,110.8800018,38,0.061154056,Danny Ings,h,986,OpenPlay,2020,Head,14572,Southampton,Manchester City,0,1,12/19/2020 15:00,Theo Walcott,Pass,26
+397112,1,Goal,0.916999969,0.648000031,110.0399963,51.84000248,0.068080813,Danny Ings,h,986,SetPiece,2020,LeftFoot,14598,Southampton,Liverpool,1,0,1/4/2021 20:00,James Ward-Prowse,Chipped,1
+397126,65,SavedShot,0.739000015,0.545999985,88.6800018,43.6799988,0.024679342,Danny Ings,h,986,OpenPlay,2020,RightFoot,14598,Southampton,Liverpool,1,0,1/4/2021 20:00,Stuart Armstrong,Pass,65
+401177,2,BlockedShot,0.905999985,0.437000008,108.7199982,34.96000064,0.091609985,Danny Ings,h,986,OpenPlay,2020,Head,14632,Southampton,Arsenal,1,3,1/26/2021 20:15,Yan Valery,Cross,2
+401183,18,SavedShot,0.888000031,0.560999985,106.5600037,44.8799988,0.063410349,Danny Ings,h,986,SetPiece,2020,RightFoot,14632,Southampton,Arsenal,1,3,1/26/2021 20:15,James Ward-Prowse,Cross,18
+401190,50,BlockedShot,0.780999985,0.694000015,93.7199982,55.5200012,0.018583491,Danny Ings,h,986,OpenPlay,2020,RightFoot,14632,Southampton,Arsenal,1,3,1/26/2021 20:15,Stuart Armstrong,Pass,50
+401899,48,BlockedShot,0.815,0.525999985,97.8,42.0799988,0.035028823,Danny Ings,h,986,FromCorner,2020,RightFoot,14641,Southampton,Aston Villa,0,1,1/30/2021 20:00,Ibrahima Diallo,Pass,48
+401904,76,SavedShot,0.716999969,0.686999969,86.03999628,54.95999752,0.015353551,Danny Ings,h,986,OpenPlay,2020,RightFoot,14641,Southampton,Aston Villa,0,1,1/30/2021 20:00,James Ward-Prowse,Pass,76
+403251,23,SavedShot,0.936999969,0.335999985,112.4399963,26.8799988,0.325018257,Danny Ings,a,986,OpenPlay,2020,RightFoot,14661,Newcastle United,Southampton,3,2,2/6/2021 15:00,Che Adams,Pass,23
+403252,24,SavedShot,0.918000031,0.479000015,110.1600037,38.3200012,0.390229672,Danny Ings,a,986,OpenPlay,2020,Head,14661,Newcastle United,Southampton,3,2,2/6/2021 15:00,,Aerial,24
+403259,52,BlockedShot,0.885999985,0.475,106.3199982,38,0.080261521,Danny Ings,a,986,SetPiece,2020,RightFoot,14661,Newcastle United,Southampton,3,2,2/6/2021 15:00,,None,52
+403261,62,ShotOnPost,0.885,0.397000008,106.2,31.76000064,0.089569144,Danny Ings,a,986,OpenPlay,2020,RightFoot,14661,Newcastle United,Southampton,3,2,2/6/2021 15:00,Nathan Redmond,Pass,62
+404630,24,Goal,0.905,0.557000008,108.6,44.56000064,0.330622077,Danny Ings,h,986,OpenPlay,2020,RightFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2/14/2021 12:00,Stuart Armstrong,Cross,24
+404640,67,MissedShots,0.776999969,0.492999992,93.23999628,39.43999936,0.030642722,Danny Ings,h,986,OpenPlay,2020,RightFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2/14/2021 12:00,,None,67
+405419,70,MissedShots,0.949000015,0.658000031,113.8800018,52.64000248,0.060697008,Danny Ings,h,986,FromCorner,2020,LeftFoot,14682,Southampton,Chelsea,1,1,2/20/2021 12:30,,Rebound,70
+406374,72,MissedShots,0.768000031,0.509000015,92.16000372,40.7200012,0.02931959,Danny Ings,a,986,OpenPlay,2020,RightFoot,14608,Leeds,Southampton,3,0,2/23/2021 20:00,Stuart Armstrong,Pass,72
+407665,94,BlockedShot,0.911999969,0.61,109.4399963,48.8,0.070530295,Danny Ings,a,986,OpenPlay,2020,LeftFoot,14686,Everton,Southampton,1,0,3/1/2021 20:00,,None,94
+412894,4,BlockedShot,0.755,0.429000015,90.6,34.3200012,0.025069432,Danny Ings,h,986,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,4/4/2021 11:00,Jannik Vestergaard,Pass,4
+412899,22,BlockedShot,0.848000031,0.512000008,101.7600037,40.96000064,0.052100435,Danny Ings,h,986,FromCorner,2020,RightFoot,14733,Southampton,Burnley,3,2,4/4/2021 11:00,Jan Bednarek,Pass,22
+412907,41,Goal,0.944000015,0.425,113.2800018,34,0.527976453,Danny Ings,h,986,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,4/4/2021 11:00,Nathan Redmond,TakeOn,41
+412911,59,BlockedShot,0.961999969,0.582000008,115.4399963,46.56000064,0.334776342,Danny Ings,h,986,OpenPlay,2020,Head,14733,Southampton,Burnley,3,2,4/4/2021 11:00,,Rebound,59
+412916,65,SavedShot,0.844000015,0.452000008,101.2800018,36.16000064,0.128496438,Danny Ings,h,986,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,4/4/2021 11:00,Theo Walcott,TakeOn,65
+414890,23,MissedShots,0.895999985,0.585,107.5199982,46.8,0.167074874,Danny Ings,a,986,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,4/12/2021 17:00,Ryan Bertrand,TakeOn,23
+414900,58,MissedShots,0.891999969,0.507000008,107.0399963,40.56000064,0.029738488,Danny Ings,a,986,SetPiece,2020,Head,14743,West Bromwich Albion,Southampton,3,0,4/12/2021 17:00,Ryan Bertrand,Aerial,58
+416396,29,Goal,0.925999985,0.547999992,111.1199982,43.83999936,0.041600395,Danny Ings,a,986,FromCorner,2020,Head,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,James Ward-Prowse,Aerial,29
+416404,55,SavedShot,0.773000031,0.65,92.76000372,52,0.029567756,Danny Ings,a,986,OpenPlay,2020,RightFoot,14722,Tottenham,Southampton,2,1,4/21/2021 19:00,,None,55
+421148,18,Goal,0.875999985,0.535999985,105.1199982,42.8799988,0.071467422,Danny Ings,h,986,OpenPlay,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,5/11/2021 21:00,Nathan Redmond,Cross,18
+421165,74,Goal,0.891999969,0.559000015,107.0399963,44.7200012,0.400339007,Danny Ings,h,986,OpenPlay,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,5/11/2021 21:00,Che Adams,Throughball,74
+421987,50,MissedShots,0.909000015,0.524000015,109.0800018,41.9200012,0.076272145,Danny Ings,h,986,FromCorner,2020,Head,14792,Southampton,Fulham,3,1,5/15/2021 14:00,James Ward-Prowse,Cross,50
+423145,65,MissedShots,0.755,0.512999992,90.6,41.03999936,0.024262335,Danny Ings,h,986,OpenPlay,2020,RightFoot,14802,Southampton,Leeds,0,2,5/18/2021 17:00,Jack Stephens,Pass,65
+423150,74,MissedShots,0.91,0.54,109.2,43.2,0.030778762,Danny Ings,h,986,FromCorner,2020,Head,14802,Southampton,Leeds,0,2,5/18/2021 17:00,Moussa Djenepo,Aerial,74
+423154,90,MissedShots,0.816999969,0.532999992,98.03999628,42.63999936,0.055495203,Danny Ings,h,986,OpenPlay,2020,LeftFoot,14802,Southampton,Leeds,0,2,5/18/2021 17:00,Ibrahima Diallo,Pass,90
+424145,69,MissedShots,0.928000031,0.515999985,111.3600037,41.2799988,0.137344003,Danny Ings,a,986,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,5/23/2021 15:00,Nathan Redmond,Pass,69

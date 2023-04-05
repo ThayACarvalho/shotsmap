@@ -1,0 +1,56 @@
+﻿id,minute,result,X,Y,NewX,NewY,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,Minute
+427514,0,SavedShot,0.724000015,0.709000015,87,57,0.034322314,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,8/22/2021 13:00,,Standard,0
+427536,78,SavedShot,0.71,0.385,85,31,0.03775138,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,8/22/2021 13:00,,Standard,78
+428732,13,MissedShots,0.755999985,0.415999985,91,33,0.018373435,James Ward-Prowse,a,843,OpenPlay,2021,LeftFoot,16397,Newcastle United,Southampton,2,2,8/28/2021 14:00,Valentino Livramento,Pass,13
+428739,38,SavedShot,0.871999969,0.854000015,105,68,0.044584934,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16397,Newcastle United,Southampton,2,2,8/28/2021 14:00,,Standard,38
+428756,81,BlockedShot,0.813000031,0.420999985,98,34,0.042836368,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,8/28/2021 14:00,Mohamed Elyounoussi,Pass,81
+428757,88,MissedShots,0.750999985,0.5,90,40,0.019594874,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,8/28/2021 14:00,Valentino Livramento,Pass,88
+428760,95,Goal,0.885,0.5,106,40,0.761168838,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16397,Newcastle United,Southampton,2,2,8/28/2021 14:00,,Standard,95
+434101,69,SavedShot,0.729000015,0.778000031,87,62,0.029541405,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,9/26/2021 13:00,,Standard,69
+434882,20,MissedShots,0.765999985,0.535999985,92,43,0.021903161,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,10/2/2021 14:00,Theo Walcott,Pass,20
+434891,60,Goal,0.885,0.5,106,40,0.761168838,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16438,Chelsea,Southampton,3,1,10/2/2021 14:00,,Standard,60
+440767,33,SavedShot,0.766999969,0.427000008,92,34,0.03318892,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16484,Southampton,Aston Villa,1,0,11/5/2021 20:00,Stuart Armstrong,Pass,33
+442642,14,SavedShot,0.835,0.625999985,100,50,0.039144471,James Ward-Prowse,a,843,OpenPlay,2021,LeftFoot,16492,Norwich,Southampton,2,1,11/20/2021 15:00,,Rebound,14
+442650,39,MissedShots,0.716999969,0.569000015,86,46,0.014875995,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16492,Norwich,Southampton,2,1,11/20/2021 15:00,,BallRecovery,39
+446177,52,MissedShots,0.866999969,0.895999985,104,72,0.035330929,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16521,Southampton,Brighton,1,1,12/4/2021 15:00,,Standard,52
+446185,99,BlockedShot,0.785999985,0.404000015,94,32,0.026224326,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16521,Southampton,Brighton,1,1,12/4/2021 15:00,Valentino Livramento,Pass,99
+447731,12,SavedShot,0.719000015,0.425,86,34,0.04368658,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,12/11/2021 15:00,,Standard,12
+447732,17,MissedShots,0.819000015,0.729000015,98,58,0.067724988,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,12/11/2021 15:00,,Standard,17
+447736,45,BlockedShot,0.804000015,0.759000015,96,61,0.05189871,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,12/11/2021 15:00,,Standard,45
+449088,31,Goal,0.736999969,0.527000008,88,42,0.05550779,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,12/15/2021 19:30,,Standard,31
+449090,37,BlockedShot,0.784000015,0.354000015,94,28,0.035844326,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,12/15/2021 19:30,,None,37
+449091,40,MissedShots,0.798000031,0.630999985,96,50,0.03591625,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,12/15/2021 19:30,Kyle Walker-Peters,Pass,40
+449100,74,BlockedShot,0.795,0.612000008,95,49,0.033187352,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,12/15/2021 19:30,,None,74
+450637,60,Goal,0.885,0.5,106,40,0.761168838,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16564,West Ham,Southampton,2,3,12/26/2021 15:00,,Standard,60
+450723,24,Goal,0.856999969,0.645999985,103,52,0.053774595,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,,None,24
+450730,53,SavedShot,0.798000031,0.285,96,23,0.016808119,James Ward-Prowse,h,843,OpenPlay,2021,LeftFoot,16575,Southampton,Tottenham,1,1,12/28/2021 15:00,Stuart Armstrong,Pass,53
+452935,13,BlockedShot,0.746999969,0.445,90,36,0.025831822,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16551,Southampton,Brentford,4,1,1/11/2022 21:45,Ibrahima Diallo,Pass,13
+453279,47,SavedShot,0.724000015,0.537000008,87,43,0.01720822,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,1/15/2022 15:00,Mohammed Salisu,Pass,47
+453284,70,MissedShots,0.685,0.880999985,82,70,0.021476241,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,1/15/2022 15:00,,Standard,70
+453286,83,Goal,0.709000015,0.582999992,85,47,0.039241523,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,1/15/2022 15:00,,Standard,83
+456611,20,SavedShot,0.744000015,0.630999985,89,50,0.016670864,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16613,Tottenham,Southampton,2,3,2/9/2022 19:45,Mohamed Elyounoussi,Pass,20
+456630,67,BlockedShot,0.734000015,0.517999992,88,41,0.015199052,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16613,Tottenham,Southampton,2,3,2/9/2022 19:45,,None,67
+456804,8,BlockedShot,0.856999969,0.459000015,103,37,0.082661204,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2/12/2022 12:30,Che Adams,BallTouch,8
+458332,17,SavedShot,0.73,0.312999992,88,25,0.0381318,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16633,Southampton,Everton,2,0,2/19/2022 15:00,,Standard,17
+459383,20,MissedShots,0.778000031,0.572000008,93,46,0.031851429,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2/25/2022 20:00,,None,20
+459411,83,MissedShots,0.715999985,0.427999992,86,34,0.042560708,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16644,Southampton,Norwich,2,0,2/25/2022 20:00,,Standard,83
+461053,65,BlockedShot,0.820999985,0.424000015,99,34,0.048047237,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16646,Aston Villa,Southampton,4,0,3/5/2022 15:00,Valentino Livramento,Pass,65
+461056,79,BlockedShot,0.776999969,0.745,93,60,0.045354839,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16646,Aston Villa,Southampton,4,0,3/5/2022 15:00,,Standard,79
+463112,85,MissedShots,0.819000015,0.691999969,98,55,0.083193354,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16664,Southampton,Watford,1,2,3/13/2022 14:00,,Standard,85
+465280,26,BlockedShot,0.764000015,0.454000015,92,36,0.026556741,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16681,Leeds,Southampton,1,1,4/2/2022 14:00,Armando Broja,Pass,26
+465286,48,Goal,0.778000031,0.64,93,51,0.069912575,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16681,Leeds,Southampton,1,1,4/2/2022 14:00,,Standard,48
+468180,91,SavedShot,0.826999969,0.805,99,64,0.047375083,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16700,Southampton,Arsenal,1,0,4/16/2022 14:00,,Standard,91
+469697,70,SavedShot,0.745,0.337999992,89,27,0.046764389,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16667,Burnley,Southampton,2,0,4/21/2022 18:45,,Standard,70
+470475,48,Goal,0.744000015,0.494000015,89,40,0.060599014,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16713,Brighton,Southampton,2,2,4/24/2022 13:00,,Standard,48
+470476,50,BlockedShot,0.758000031,0.627000008,91,50,0.020291949,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,4/24/2022 13:00,Nathan Tella,Pass,50
+470477,50,BlockedShot,0.765999985,0.362999992,92,29,0.020670377,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,4/24/2022 13:00,Nathan Redmond,Pass,50
+470480,53,Goal,0.788000031,0.497999992,95,40,0.036666363,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,4/24/2022 13:00,Oriol Romeu,Pass,53
+470488,88,MissedShots,0.765999985,0.527000008,92,42,0.02591992,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,4/24/2022 13:00,,None,88
+471635,70,MissedShots,0.786999969,0.407000008,94,33,0.031737082,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16720,Southampton,Crystal Palace,1,2,4/30/2022 14:00,Oriol Romeu,Pass,70
+474713,21,SavedShot,0.759000015,0.585999985,91,47,0.015510914,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16734,Brentford,Southampton,3,0,5/7/2022 14:00,,None,21
+474716,30,BlockedShot,0.815999985,0.507000008,98,41,0.166057542,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16734,Brentford,Southampton,3,0,5/7/2022 14:00,,Standard,30
+474729,74,BlockedShot,0.729000015,0.625999985,87,50,0.044069894,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16734,Brentford,Southampton,3,0,5/7/2022 14:00,,Standard,74
+476915,50,BlockedShot,0.72,0.649000015,86,52,0.038546208,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16740,Southampton,Liverpool,1,2,5/17/2022 18:45,,Standard,50
+477882,29,MissedShots,0.763000031,0.477000008,92,38,0.025944551,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16752,Leicester,Southampton,4,1,5/22/2022 15:00,Mohamed Elyounoussi,Pass,29
+477892,78,Goal,0.885,0.5,106,40,0.761168838,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16752,Leicester,Southampton,4,1,5/22/2022 15:00,,Standard,78
+477894,84,MissedShots,0.780999985,0.347000008,94,28,0.068748392,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16752,Leicester,Southampton,4,1,5/22/2022 15:00,,Standard,84
