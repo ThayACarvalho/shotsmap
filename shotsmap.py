@@ -21,7 +21,7 @@ James_ward = '/folder/James_Ward-Prowse.csv'
 kevin_bruyne = '/folder/Kevin_de_Bruyne.csv'
 son_heung22 = '/folder/Son_Heung-Min.csv'
 
-danny_ings = pandas.DataFrame(danny_ing, columns=['id',	'minute', 'result',	'X',	'Y',	'NewX',	'NewY',	'xG',	'player',	'h_a',	'player_id',	'situation',	'season',	'shotType',	'match_id',	'h_team',	'a_team',	'h_goals',	'a_goals',	'date',	'player_assisted',	'lastAction',	'Minute'])
+danny_ings = pd.DataFrame(danny_ing, columns=['id',	'minute', 'result',	'X',	'Y',	'NewX',	'NewY',	'xG',	'player',	'h_a',	'player_id',	'situation',	'season',	'shotType',	'match_id',	'h_team',	'a_team',	'h_goals',	'a_goals',	'date',	'player_assisted',	'lastAction',	'Minute'])
 
 
 st.title('Premier League Top Shooters Shotmap')
