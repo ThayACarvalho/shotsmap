@@ -9,17 +9,20 @@ import statsbombpy as sb
 from statsbombpy import sb
 from mplsoccer import VerticalPitch
 
-danny_ings = pd.read_csv('shotsmap/folder/Danny_Ings.csv')
-gareth_bale = pd.read_csv('/folder/Gareth_Bale.csv')
-james_maddison = pd.read_csv('/folder/James_Maddison.csv')
-jesse_lingard = pd.read_csv('/folder/Jesse_Lingard.csv')
-son_heung = pd.read_csv('/folder/Son_Heung-Min.csv')
+danny_ing = '/folder/Danny_Ings.csv'
+gareth_bale = '/folder/Gareth_Bale.csv'
+james_maddison = '/folder/James_Maddison.csv'
+jesse_lingard = '/folder/Jesse_Lingard.csv'
+son_heung = '/folder/Son_Heung-Min.csv'
 
-emile_smith = pd.read_csv('/folder/Emile_Smith-Rowe.csv')
-james_maddison22 = pd.read_csv('/folder/James_Maddison.csv')
-James_ward = pd.read_csv('/folder/James_Ward-Prowse.csv')
-kevin_bruyne = pd.read_csv('/folder/Kevin_de_Bruyne.csv')
-son_heung22 = pd.read_csv('/folder/Son_Heung-Min.csv')
+emile_smith = '/folder/Emile_Smith-Rowe.csv'
+james_maddison22 = '/folder/James_Maddison.csv'
+James_ward = '/folder/James_Ward-Prowse.csv'
+kevin_bruyne = '/folder/Kevin_de_Bruyne.csv'
+son_heung22 = '/folder/Son_Heung-Min.csv'
+
+danny_ings = pd.DataFrame(danny_ing)
+
 
 st.title('Premier League Top Shooters Shotmap')
 
